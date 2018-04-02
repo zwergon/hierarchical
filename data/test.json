@@ -1,0 +1,200 @@
+[
+{ "name": "#ParcoursImmmob", "imports": 
+[ "Capgemini Consulting","Customer Experience","Change","Digital Employee Experience","Retail Banking","SG","FS Market Unit","Digital transformation"]
+},{ "name": "ASE", "imports": 
+[ "Digi&Human","Digital Employee Experience","Digital transformation","Digital Working","CAPG PMT2020","BNPP","Capgemini Consulting","Retail Banking","FS Market Unit","HSBC","Engagement","HUB","New ways of working"]
+},{ "name": "Banques Populaires", "imports": 
+[ "Bossard Consultants","Branch Network","Capgemini Consulting","Retail Banking","Efficom","Engagement"]
+},{ "name": "La Banque Postale", "imports": 
+[ "Capgemini Consulting","Retail Banking","Digital transformation","GDPR","FS Market Unit","Convergent","IFRS9","Sogeti","Labs","La Poste","Branch Network","Digi&Human","Change","Banque des Pros","Data Privacy","DIT","FS SBU","New ways of working","One team","Prosodie","Vice President","Paraguay"]
+},{ "name": "Banque des Pros", "imports": 
+[ "Capgemini Consulting","La Banque Postale","Branch Network","Customer Experience","Retail Banking","La Poste","FS Market Unit"]
+},{ "name": "BNPP", "imports": 
+[ "ASE","Capgemini Consulting","Retail Banking","Digital transformation","GDPR","FS Market Unit","BNPP BFI","Bossard Consultants","Branch Module Convergence","Data Privacy","Digi&Human","Change","Digital Employee Experience","Digital Working","DIT","Foncier Home","Market Intelligence","Mass Retail Morroco","New ways of working","Pilotage du Réseau","Vice President"]
+},{ "name": "BNPP BFI", "imports": 
+[ "Capgemini Consulting","BNPP","Merger"]
+},{ "name": "Bossard Consultants", "imports": 
+[ "Banques Populaires","Capgemini Consulting","Retail Banking","BNPP","Branch Network","CACF","CACL","People Care","Calibration Meetings","CIC - SNVB","Crédit Agricole","Customer Experience","Efficom","Engagement","FS Market Unit","Geomarketing","Groupama","HEC Business School","HSBC","LCL","Mentor","Price Waterhouse","Recruitment","SG","SGCIB","Shared Goals","Training"]
+},{ "name": "Branch Module Convergence", "imports": 
+[ "Capgemini Consulting","Retail Banking","BNPP","Branch Network","Digital transformation","FS Market Unit","Mass Retail Morroco"]
+},{ "name": "Branch Network", "imports": 
+[ "Banques Populaires","La Banque Postale","Banque des Pros","Bossard Consultants","Branch Module Convergence","Capgemini Consulting","Retail Banking","Digital transformation","CACF","CACL","Mass Retail Morroco","Megastore"]
+},{ "name": "CACF", "imports": 
+[ "Bossard Consultants","Capgemini Consulting","Retail Banking","Geomarketing","Branch Network","Crédit Agricole"]
+},{ "name": "CACL", "imports": 
+[ "Bossard Consultants","Capgemini Consulting","Retail Banking","Geomarketing","Branch Network","Crédit Agricole"]
+},{ "name": "Calibration Meetings", "imports": 
+[ "Bossard Consultants","Capgemini Consulting","Mentor","People Care","FS Market Unit","Talent Leader"]
+},{ "name": "CAPG PMT2020", "imports": 
+[ "ASE","Capgemini Consulting","Retail Banking","Crédit Agricole","Engagement","Enterprise Social Network","Digital transformation","FS Market Unit","Change"]
+},{ "name": "Capgemini Consulting", "imports": 
+[ "#ParcoursImmmob","ASE","Banques Populaires","La Banque Postale","Banque des Pros","BNPP","BNPP BFI","Bossard Consultants","Branch Module Convergence","Branch Network","CACF","CACL","Calibration Meetings","CAPG PMT2020","Capgemini Consulting","Retail Banking","Digital transformation","FS Market Unit","CIC - SNVB","Convergent","Crédit Agricole","Crédit Foncier","Customer Experience","Data Privacy","Digi&Human","Change","Digital Employee Experience","Digital Working","DIT","Efficom","Engagement","Enterprise Social Network","Foncier Home","FS SBU","GDPR","Geomarketing","Groupama","HEC Business School","HSBC","HUB","IFRS9","La Poste","Labs","LCL","Market Intelligence","Mass Retail Morroco","Megastore","Mentor","Merger","New ways of working","One team","People Care","Pilotage du Réseau","Price Waterhouse","Prosodie","Recruitment","SG","SGCIB","Shared Goals","Sogeti","Talent Leader","Training","TransfoRH","Vice President","Paraguay"]
+},{ "name": "CIC - SNVB", "imports": 
+[ "Bossard Consultants","Capgemini Consulting","Retail Banking","Efficom","Engagement"]
+},{ "name": "Convergent", "imports": 
+[ "La Banque Postale","Capgemini Consulting","Retail Banking","Digital transformation","Prosodie","Sogeti","FS SBU","IFRS9","Crédit Foncier","Foncier Home","Megastore","FS Market Unit"]
+},{ "name": "Crédit Agricole", "imports": 
+[ "CACF","CACL","CAPG PMT2020","Bossard Consultants","Capgemini Consulting","Retail Banking","Digital transformation","FS Market Unit","Change","Geomarketing"]
+},{ "name": "Crédit Foncier", "imports": 
+[ "Convergent","Capgemini Consulting","Retail Banking","Digital transformation","Foncier Home","Megastore","Customer Experience","FS Market Unit","Change"]
+},{ "name": "Customer Experience", "imports": 
+[ "#ParcoursImmmob","Banque des Pros","Crédit Foncier","Bossard Consultants","Capgemini Consulting","Retail Banking","Digital transformation","FS Market Unit","Mass Retail Morroco","Megastore","SGCIB"]
+},{ "name": "Data Privacy", "imports": 
+[ "Capgemini Consulting","Retail Banking","Digital transformation","La Banque Postale","BNPP","SG","FS Market Unit","GDPR"]
+},{ "name": "Digi&Human", "imports": 
+[ "ASE","La Banque Postale","Capgemini Consulting","Retail Banking","Digital transformation","BNPP","Pilotage du Réseau","SG","TransfoRH","Labs","Engagement","FS Market Unit","People Care","Vice President","Paraguay"]
+},{ "name": "Change", "imports": 
+[ "#ParcoursImmmob","La Banque Postale","Capgemini Consulting","Retail Banking","Crédit Foncier","Crédit Agricole","CAPG PMT2020","BNPP","HSBC","HUB","Groupama","FS Market Unit","Labs","Market Intelligence","Mass Retail Morroco","Pilotage du Réseau","SG","SGCIB","Shared Goals","TransfoRH"]
+},{ "name": "Digital Employee Experience", "imports": 
+[ "#ParcoursImmmob","ASE","Capgemini Consulting","Retail Banking","Digital transformation","BNPP","Market Intelligence","Digital Working","FS Market Unit"]
+},{ "name": "Digital transformation", "imports": 
+[ "#ParcoursImmmob","ASE","La Banque Postale","BNPP","Branch Module Convergence","Branch Network","CAPG PMT2020","Capgemini Consulting","Convergent","Crédit Agricole","Crédit Foncier","Customer Experience","Data Privacy","Digi&Human","Digital Employee Experience","Retail Banking","SG","FS Market Unit","Digital Working","DIT","Engagement","Enterprise Social Network","Foncier Home","FS SBU","GDPR","Groupama","La Poste","Labs","Market Intelligence","Megastore","Pilotage du Réseau","TransfoRH"]
+},{ "name": "Digital Working", "imports": 
+[ "ASE","Digital Employee Experience","Capgemini Consulting","Retail Banking","Digital transformation","BNPP","Market Intelligence","FS Market Unit"]
+},{ "name": "DIT", "imports": 
+[ "Capgemini Consulting","Retail Banking","Digital transformation","La Banque Postale","BNPP","SG","FS SBU"]
+},{ "name": "Efficom", "imports": 
+[ "CIC - SNVB","Bossard Consultants","Capgemini Consulting","Retail Banking","Banques Populaires","FS Market Unit","Shared Goals"]
+},{ "name": "Engagement", "imports": 
+[ "CAPG PMT2020","CIC - SNVB","Digi&Human","Bossard Consultants","Capgemini Consulting","Retail Banking","Digital transformation","Banques Populaires","ASE","HUB","FS Market Unit","HSBC","Labs"]
+},{ "name": "Enterprise Social Network", "imports": 
+[ "CAPG PMT2020","Capgemini Consulting","Retail Banking","Digital transformation","FS Market Unit","Market Intelligence"]
+},{ "name": "Foncier Home", "imports": 
+[ "Convergent","Crédit Foncier","Capgemini Consulting","Retail Banking","Digital transformation","FS Market Unit","Market Intelligence","BNPP","Megastore"]
+},{ "name": "FS Market Unit", "imports": 
+[ "#ParcoursImmmob","ASE","La Banque Postale","Banque des Pros","BNPP","Branch Module Convergence","Calibration Meetings","CAPG PMT2020","Capgemini Consulting","Convergent","Crédit Agricole","Crédit Foncier","Customer Experience","Data Privacy","Digi&Human","Change","Digital Employee Experience","Digital transformation","Digital Working","Efficom","Engagement","Enterprise Social Network","Foncier Home","Bossard Consultants","Retail Banking","FS SBU","GDPR","IFRS9","La Poste","LCL","Market Intelligence","Mass Retail Morroco","Megastore","Mentor","New ways of working","One team","People Care","Pilotage du Réseau","Prosodie","Recruitment","SG","Sogeti","Talent Leader","Training","TransfoRH","Vice President"]
+},{ "name": "FS SBU", "imports": 
+[ "Convergent","Capgemini Consulting","Retail Banking","Digital transformation","FS Market Unit","La Banque Postale","DIT","La Poste","One team"]
+},{ "name": "GDPR", "imports": 
+[ "La Banque Postale","BNPP","Capgemini Consulting","Retail Banking","Digital transformation","SG","Data Privacy","FS Market Unit"]
+},{ "name": "Geomarketing", "imports": 
+[ "CACF","CACL","Bossard Consultants","Capgemini Consulting","Retail Banking","Crédit Agricole"]
+},{ "name": "Groupama", "imports": 
+[ "Change","Bossard Consultants","Capgemini Consulting","Retail Banking","Digital transformation"]
+},{ "name": "HEC Business School", "imports": 
+[ "Bossard Consultants","Capgemini Consulting","Friends ","America del Sur","Paraguay","3 children","Sud-Ouest"]
+},{ "name": "HSBC", "imports": 
+[ "ASE","Change","Bossard Consultants","Capgemini Consulting","Retail Banking","HUB","Engagement","Merger"]
+},{ "name": "HUB", "imports": 
+[ "Change","Engagement","HSBC","Capgemini Consulting","Retail Banking","ASE","Merger"]
+},{ "name": "IFRS9", "imports": 
+[ "La Banque Postale","Convergent","Capgemini Consulting","Retail Banking","FS Market Unit","Sogeti","Merger"]
+},{ "name": "La Poste", "imports": 
+[ "La Banque Postale","Banque des Pros","Capgemini Consulting","Retail Banking","Digital transformation","FS Market Unit","FS SBU","One team","Vice President"]
+},{ "name": "Labs", "imports": 
+[ "La Banque Postale","Digi&Human","Capgemini Consulting","Retail Banking","Digital transformation","Change","Engagement","New ways of working"]
+},{ "name": "LCL", "imports": 
+[ "Bossard Consultants","Capgemini Consulting","Retail Banking","FS Market Unit"]
+},{ "name": "Market Intelligence", "imports": 
+[ "Digital Employee Experience","Digital Working","Foncier Home","Capgemini Consulting","Retail Banking","Digital transformation","FS Market Unit","Change","Enterprise Social Network","BNPP"]
+},{ "name": "Mass Retail Morroco", "imports": 
+[ "Capgemini Consulting","Retail Banking","FS Market Unit","BNPP","Change","Branch Module Convergence","Branch Network","Customer Experience"]
+},{ "name": "Megastore", "imports": 
+[ "Convergent","Crédit Foncier","Foncier Home","Capgemini Consulting","Retail Banking","Digital transformation","Branch Network","Customer Experience","FS Market Unit"]
+},{ "name": "Mentor", "imports": 
+[ "Calibration Meetings","Capgemini Consulting","FS Market Unit","Bossard Consultants","People Care"]
+},{ "name": "Merger", "imports": 
+[ "BNPP BFI","HUB","IFRS9","Capgemini Consulting","Retail Banking","HSBC"]
+},{ "name": "New ways of working", "imports": 
+[ "Capgemini Consulting","Retail Banking","FS Market Unit","Labs","La Banque Postale","BNPP","ASE"]
+},{ "name": "One team", "imports": 
+[ "Capgemini Consulting","Retail Banking","FS Market Unit","La Banque Postale","La Poste","Prosodie","Sogeti","FS SBU"]
+},{ "name": "People Care", "imports": 
+[ "Bossard Consultants","Calibration Meetings","Mentor","Capgemini Consulting","Retail Banking","FS Market Unit","Digi&Human","Recruitment","Talent Leader","Training","Vice President"]
+},{ "name": "Pilotage du Réseau", "imports": 
+[ "Digi&Human","Capgemini Consulting","Retail Banking","FS Market Unit","BNPP","Digital transformation","Change"]
+},{ "name": "Price Waterhouse", "imports": 
+[ "Bossard Consultants","Capgemini Consulting","America del Sur","Paraguay","Family"]
+},{ "name": "Prosodie", "imports": 
+[ "Convergent","One team","Capgemini Consulting","Retail Banking","FS Market Unit","La Banque Postale"]
+},{ "name": "Recruitment", "imports": 
+[ "People Care","Bossard Consultants","Capgemini Consulting","FS Market Unit","Talent Leader","Training"]
+},{ "name": "Retail Banking", "imports": 
+[ "#ParcoursImmmob","ASE","Banques Populaires","La Banque Postale","Banque des Pros","BNPP","Bossard Consultants","Branch Module Convergence","Branch Network","CACF","CACL","CAPG PMT2020","Capgemini Consulting","CIC - SNVB","Convergent","Crédit Agricole","Crédit Foncier","Customer Experience","Data Privacy","Digi&Human","Change","Digital Employee Experience","Digital transformation","Digital Working","DIT","Efficom","Engagement","Enterprise Social Network","Foncier Home","FS Market Unit","FS SBU","GDPR","Geomarketing","Groupama","HSBC","HUB","IFRS9","La Poste","Labs","LCL","Market Intelligence","Mass Retail Morroco","Megastore","Merger","New ways of working","One team","People Care","Pilotage du Réseau","Prosodie","Retail Banking","SG","Sogeti","Talent Leader","Training","TransfoRH","Vice President"]
+},{ "name": "SG", "imports": 
+[ "#ParcoursImmmob","Data Privacy","Digi&Human","Digital transformation","DIT","GDPR","Retail Banking","Bossard Consultants","Capgemini Consulting","SGCIB","TransfoRH","FS Market Unit","Change","Shared Goals","Vice President"]
+},{ "name": "SGCIB", "imports": 
+[ "SG","Bossard Consultants","Capgemini Consulting","Shared Goals","Change","Customer Experience"]
+},{ "name": "Shared Goals", "imports": 
+[ "SGCIB","Bossard Consultants","Capgemini Consulting","SG","Change","Efficom"]
+},{ "name": "Sogeti", "imports": 
+[ "La Banque Postale","Convergent","IFRS9","One team","Capgemini Consulting","Retail Banking","FS Market Unit"]
+},{ "name": "Talent Leader", "imports": 
+[ "Capgemini Consulting","Retail Banking","FS Market Unit","People Care","Recruitment","Calibration Meetings"]
+},{ "name": "Training", "imports": 
+[ "Bossard Consultants","Capgemini Consulting","Retail Banking","FS Market Unit","Recruitment","People Care"]
+},{ "name": "TransfoRH", "imports": 
+[ "Digi&Human","SG","Capgemini Consulting","Retail Banking","FS Market Unit","Change","Digital transformation"]
+},{ "name": "Vice President", "imports": 
+[ "Capgemini Consulting","Retail Banking","FS Market Unit","Digi&Human","SG","BNPP","La Banque Postale","La Poste","People Care"]
+},{ "name": "America del Sur", "imports": 
+[ "HEC Business School","Price Waterhouse","Paraguay","Family","Paris 18","Hautes-Pyrénées"]
+},{ "name": "Paraguay", "imports": 
+[ "HEC Business School","Price Waterhouse","America del Sur","Digi&Human","Capgemini Consulting","Family","Espana","Eating","Paris 18","Hautes-Pyrénées","La Banque Postale","Andalucia","Montilla","3 children"]
+},{ "name": "3 children", "imports": 
+[ "HEC Business School","Paraguay","Eating","Espana","Family","Astugue","Montmartre","Landes","Movies","Paris 18","Hautes-Pyrénées","Wine","Sud-Ouest","Trocmaison","Hip-hop"]
+},{ "name": "Algérie", "imports": 
+[ "Family","Blida","Andalucia","Astugue","Espana","Hautes-Pyrénées"]
+},{ "name": "Andalucia", "imports": 
+[ "Paraguay","Algérie","Family","Astugue","Blida","Corrida","Eating","Espana","Montilla","Flamenco","Hautes-Pyrénées","Feria","Friends ","Mont de Marsan","Sud-Ouest","Trocmaison","Wine"]
+},{ "name": "Astugue", "imports": 
+[ "3 children","Algérie","Andalucia","Family","Blida","Espana","Eating","Hautes-Pyrénées","Montilla","Sud-Ouest"]
+},{ "name": "Blida", "imports": 
+[ "Algérie","Andalucia","Astugue","Family","Espana","Hautes-Pyrénées","Sud-Ouest"]
+},{ "name": "Corrida", "imports": 
+[ "Andalucia","Eating","Espana","Feria","Flamenco","Friends ","Wine","Family","Landes","Mont de Marsan","Hautes-Pyrénées","Sud-Ouest"]
+},{ "name": "Eating", "imports": 
+[ "Paraguay","3 children","Andalucia","Astugue","Corrida","Family","Espana","Feria","Friends ","Paris 18","Hautes-Pyrénées","Wine","Haruki Murakami","Landes","Montilla","Montmartre","Sud-Ouest","Trocmaison"]
+},{ "name": "Espana", "imports": 
+[ "Paraguay","3 children","Algérie","Andalucia","Astugue","Blida","Corrida","Eating","Family","Feria","Flamenco","Friends ","Montilla","Hautes-Pyrénées","Wine","Movies","Reading"]
+},{ "name": "Family", "imports": 
+[ "Price Waterhouse","America del Sur","Paraguay","3 children","Algérie","Andalucia","Astugue","Blida","Eating","Espana","Corrida","Flamenco","Montilla","Montmartre","Movies","Paris 18","Hautes-Pyrénées","Wine","Reading","Sud-Ouest","Trocmaison","Violin","Piano","Hip-hop"]
+},{ "name": "Feria", "imports": 
+[ "Corrida","Eating","Espana","Andalucia","Flamenco","Friends ","Landes","Wine","Hautes-Pyrénées","Sud-Ouest"]
+},{ "name": "Flamenco", "imports": 
+[ "Andalucia","Corrida","Espana","Family","Feria","Friends ","Mont de Marsan","Landes","Sud-Ouest"]
+},{ "name": "Friends ", "imports": 
+[ "HEC Business School","Corrida","Eating","Espana","Feria","Flamenco","Andalucia","Landes","Mont de Marsan","Montmartre","Paris 18","Hautes-Pyrénées","Wine","Montilla","Sud-Ouest","Theater","Violin","Piano"]
+},{ "name": "Haruki Murakami", "imports": 
+[ "Eating","Reading"]
+},{ "name": "Jean Giono", "imports": 
+[ "Reading"]
+},{ "name": "Landes", "imports": 
+[ "3 children","Feria","Friends ","Corrida","Eating","Flamenco","Paris 18","Wine","Mont de Marsan","Montmartre","Sud-Ouest","Theater"]
+},{ "name": "Livre Inter", "imports": 
+[ "Reading","Mont de Marsan"]
+},{ "name": "Mont de Marsan", "imports": 
+[ "Flamenco","Friends ","Livre Inter","Andalucia","Corrida","Landes","Sud-Ouest"]
+},{ "name": "Montilla", "imports": 
+[ "Paraguay","Andalucia","Espana","Family","Astugue","Eating","Friends ","Hautes-Pyrénées","Wine"]
+},{ "name": "Montmartre", "imports": 
+[ "3 children","Family","Friends ","Eating","Landes","Paris 18","Wine"]
+},{ "name": "Movies", "imports": 
+[ "3 children","Family","Espana"]
+},{ "name": "Paris 18", "imports": 
+[ "America del Sur","Paraguay","3 children","Eating","Family","Friends ","Landes","Montmartre","Hautes-Pyrénées","Wine","Sud-Ouest","Theater","Hip-hop"]
+},{ "name": "Hautes-Pyrénées", "imports": 
+[ "America del Sur","Paraguay","3 children","Algérie","Andalucia","Astugue","Blida","Eating","Espana","Family","Friends ","Montilla","Paris 18","Corrida","Feria","Hautes-Pyrénées","Wine","Violin","Piano"]
+},{ "name": "Reading", "imports": 
+[ "Haruki Murakami","Jean Giono","Livre Inter","Family","Espana","Sorj Chalandon","Virgnia Woolf","Wiliam Faulkner"]
+},{ "name": "Sorj Chalandon", "imports": 
+[ "Reading","Theater"]
+},{ "name": "Sud-Ouest", "imports": 
+[ "HEC Business School","Family","3 children","Andalucia","Astugue","Blida","Corrida","Eating","Feria","Flamenco","Friends ","Landes","Mont de Marsan","Paris 18","Wine","Violin","Piano"]
+},{ "name": "Theater", "imports": 
+[ "Sorj Chalandon","Friends ","Landes","Paris 18","Hip-hop"]
+},{ "name": "Trocmaison", "imports": 
+[ "Family","3 children","Andalucia","Eating"]
+},{ "name": "Virgnia Woolf", "imports": 
+[ "Reading","Wiliam Faulkner"]
+},{ "name": "Wiliam Faulkner", "imports": 
+[ "Reading","Virgnia Woolf"]
+},{ "name": "Wine", "imports": 
+[ "3 children","Corrida","Eating","Espana","Family","Feria","Friends ","Landes","Montilla","Montmartre","Paris 18","Hautes-Pyrénées","Sud-Ouest","Andalucia"]
+},{ "name": "Violin", "imports": 
+[ "Piano","Friends ","Sud-Ouest","Hautes-Pyrénées","Family"]
+},{ "name": "Piano", "imports": 
+[ "Violin","Friends ","Sud-Ouest","Hautes-Pyrénées","Family"]
+},{ "name": "Hip-hop", "imports": 
+[ "Theater","Paris 18","Family","3 children"]
+}]
